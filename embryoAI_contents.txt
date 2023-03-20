@@ -5,7 +5,6 @@
  'embryoAI_functions',
  'embryoAI_images',
  'embryoAI_labels',
- 'embryoAI_models',
  'embryoAI_phase_1_prep.ipynb',
  'embryoAI_phase_2_training.ipynb',
  'embryoAI_weights',
