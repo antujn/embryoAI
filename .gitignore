@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 
-
+.DS_Store
 embryoAI_images
 embryoAI_labels
 embryo_dataset.tar.gz
